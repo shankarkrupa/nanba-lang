@@ -1,15 +1,11 @@
-<h1 align="center">Bhai Lang</h1>
+<h1 align="center">நண்பா நிரலாக்க மொழி</h1>
 <p align="center">
-<a href="https://lgtm.com/projects/g/DulLabs/bhai-lang/alerts/"><img alt="Total alerts" src="https://img.shields.io/lgtm/alerts/g/DulLabs/bhai-lang.svg?logo=lgtm&logoWidth=18"/></a>
-<a href="https://lgtm.com/projects/g/DulLabs/bhai-lang/context:javascript"><img alt="Language grade: JavaScript" src="https://img.shields.io/lgtm/grade/javascript/g/DulLabs/bhai-lang.svg?logo=lgtm&logoWidth=18"/></a>
-<a href="https://github.com/DulLabs/bhai-lang/actions/workflows/node.js.yml/badge.svg"><img alt="Build" src="https://github.com/DulLabs/bhai-lang/actions/workflows/node.js.yml/badge.svg"/></a>
-<a href="https://bhailang.js.org/"><img alt="Build" src="https://img.shields.io/badge/website-bhailang.js.org-orange"/></a>
-<a href="https://www.npmjs.com/package/bhailang"><img alt="Build" src="https://img.shields.io/badge/npm-bhailang-orange"/></a>
+<a href="https://github.com/shankarkrupa/nanba-lang/actions/workflows/node.js.yml/badge.svg"><img alt="Build" src="https://github.com/shankarkrupa/nanba-lang/actions/workflows/node.js.yml/badge.svg"/></a>
   
 </p>
 <p align="center">
   This is *forked* repository from bhai-lang.<br><br>
-  <b>nanba lang is a toy programming language written in Typescript.</b>
+  <b>nanba lang is a toy programming language written in Typescript and heavily inspired from Bhai Language. If you are looking for a mature programming language in Tamil, please consider Ezhil Language based on Python</b>
 </p>
 <br>
 
@@ -36,11 +32,11 @@ npm i -g bhailang
 
 
 <h4 align="left">Edit the file with a text editor.
-You can also try out your code on <a href="https://bhailang.js.org/#playground">Bhai Lang PlayGround</a></h4>
+You can also try out your code on your localhost at port 3000</h4>
 
 ```
 வணக்கம் நண்பா
-  சொல்லு நண்பா "Hello bhai";
+  சொல்லு நண்பா "வணக்கமுங்க";
 நன்றி நண்பா
 
 ```
