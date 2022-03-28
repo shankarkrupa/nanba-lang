@@ -1,5 +1,7 @@
 <h1 align="center">நண்பா நிரலாக்க மொழி</h1>
 <p align="center">
+<a href="https://lgtm.com/projects/g/shakarkrupa/nanba-lang/alerts/"><img alt="Total alerts" src="https://img.shields.io/lgtm/alerts/g/shankarkrupa/nanba-lang.svg?logo=lgtm&logoWidth=18"/></a>
+<a href="https://lgtm.com/projects/g/shankarkrupa/nanba-lang/context:javascript"><img alt="Language grade: JavaScript" src="https://img.shields.io/lgtm/grade/javascript/g/shankarkrupa/nanba-lang.svg?logo=lgtm&logoWidth=18"/></a>
 <a href="https://github.com/shankarkrupa/nanba-lang/actions/workflows/node.js.yml/badge.svg"><img alt="Build" src="https://github.com/shankarkrupa/nanba-lang/actions/workflows/node.js.yml/badge.svg"/></a>
   
 </p>
@@ -144,7 +146,7 @@ This too
   இதுவரைக்கும் சுத்து நண்பா (a < 10) {
    a += 1;
    இப்படின்னா நண்பா (a == 5) {
-    சொல்லு நண்பா "andar se சொல்லு நண்பா ", a;
+    சொல்லு நண்பா "உள்ள இருக்கேன்னு சொல்லு நண்பா", a;
     அடுத்தது நண்பா;
    }
    இப்படின்னா நண்பா (a == 6) {
