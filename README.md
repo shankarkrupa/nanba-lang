@@ -20,7 +20,7 @@ npm i
 npm run build
 npm run dev
 ```
-Please open your browser and go to http://localhost:3000 to play around the language
+Please open your browser and go to http://localhost:3000 or try https://nanba.netlify.com to play around the language
 
 The following steps are for bhai language and not applicable in its entirety sense to nanba language
 
@@ -119,7 +119,7 @@ This too
 ```
 
 <h3 align="center">Conditionals</h3>
-<p align="center">Bhailang supports if-else-if ladder construct , <code>இப்படின்னா நண்பா</code> block will execute if condition is <code>sahi</code>, otherwise one of the subsequently added <code>இல்ல ஒருவேளை</code> blocks will execute if their respective condition is <code>sahi</code>, and the <code>அப்படி இல்லேன்னா</code> block will eventually execute if all of the above conditions are <code>galat</code>
+<p align="center">Nanba language supports if-else-if ladder construct , <code>இப்படின்னா நண்பா</code> block will execute if condition is <code>sahi</code>, otherwise one of the subsequently added <code>இல்ல ஒருவேளை</code> blocks will execute if their respective condition is <code>sahi</code>, and the <code>அப்படி இல்லேன்னா</code> block will eventually execute if all of the above conditions are <code>galat</code>
 
 ```
 
@@ -158,8 +158,6 @@ This too
 நன்றி நண்பா
 ```
 
-<h2 align="center">Development</h2>
-<p align="center">You can explore abstract syntax tree(AST) of bhailang <a href="https://bhailang-ast.netlify.app/" target="_blank">here</a>.</p>
 
 
 
