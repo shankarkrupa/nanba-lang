@@ -2,7 +2,7 @@
 <p align="center">
 <a href="https://lgtm.com/projects/g/shakarkrupa/nanba-lang/alerts/"><img alt="Total alerts" src="https://img.shields.io/lgtm/alerts/g/shankarkrupa/nanba-lang.svg?logo=lgtm&logoWidth=18"/></a>
 <a href="https://lgtm.com/projects/g/shankarkrupa/nanba-lang/context:javascript"><img alt="Language grade: JavaScript" src="https://img.shields.io/lgtm/grade/javascript/g/shankarkrupa/nanba-lang.svg?logo=lgtm&logoWidth=18"/></a>
-<a href="https://github.com/shankarkrupa/nanba-lang/actions/workflows/node.js.yml/badge.svg"><img alt="Build" src="https://github.com/shankarkrupa/nanba-lang/actions/workflows/node.js.yml/badge.svg"/></a>
+<a href="https://app.netlify.com/sites/nanba/deploys"><img src="https://api.netlify.com/api/v1/badges/f13a20cd-6db2-4692-86ed-6409abed16d0/deploy-status"></a>
   
 </p>
 <p align="center">
